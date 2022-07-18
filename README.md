@@ -1,7 +1,7 @@
 # wavy_background
 Building a wavy background using CSS for practice purposes...
          
-<img src="#" width="600" height="350" alt="">             
+<!-- <img src="#" width="600" height="350" alt="">              -->
 
 ## Built With
 
@@ -12,7 +12,7 @@ Building a wavy background using CSS for practice purposes...
 
 ## License
 
-This project is licensed under the [MIT License](https://github.com/ShaviyaVictor/custom_setup_template/blob/main/LICENSE).           
+This project is licensed under the [MIT License](https://github.com/ShaviyaVictor/wavy_background/blob/main/LICENSE).           
 
 ## Resources
 - [YouTube](https://www.youtube.com/watch?v=9kkEMHatgZ0)                  
